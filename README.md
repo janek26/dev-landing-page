@@ -1,3 +1,7 @@
+# Simple landingpage for me
+
+So people can find me. Big thank you to @flexdinesh!
+
 # Dev Landing Page
 
 Minimal landing page for developers.
